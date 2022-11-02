@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Karinca Kolonisi Algoritması:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Karinca_Kolonisi_Algoritmas_jar</output-path>
+    <root id="archive" name="Karinca Kolonisi Algoritması.jar">
+      <element id="module-output" name="Karinca Kolonisi Algoritması" />
+    </root>
+  </artifact>
+</component>
